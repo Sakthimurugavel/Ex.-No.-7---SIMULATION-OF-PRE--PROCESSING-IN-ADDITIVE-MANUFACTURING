@@ -46,8 +46,8 @@
 ## Output:
 ![Screenshot (117)](https://github.com/Nandhakumar1313/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120230694/e5af1ba6-1f8e-4377-b33b-8a8a69139f6f)
 
-### Name:G.R.NANDHAKUMAR
-### Register Number:212222100029
+### Name:M.SAKTHIVEL
+### Register Number:212222240088
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
